@@ -3,7 +3,7 @@
 ---
 
 ## 教育背景
-- 电子科技大学，硕士，人工智能，2023.9 - 2026.6  
+- 电子科技大学，硕士，计算机科学与技术，2023.9 - 2026.6  
   - 研究方向：计算机视觉 / 多模态学习 / 具身智能 / 压缩感知 
   - 导师：王国庆教授、杨阳教授
 
@@ -63,5 +63,3 @@ CN202411378824.2
 ## 联系方式
 - 邮箱：Johnathan0@126.com
 - GitHub：[@Johnathan218](https://github.com/Johnathan218)  
-- 个人主页（GitHub Pages）：https://your-username.github.io （或替换为你已生成的 pages 站点）  
-- 简历下载：PDF（resume-cn.pdf）
