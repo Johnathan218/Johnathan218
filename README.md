@@ -58,6 +58,7 @@
 
 ## 成果  
 - 发明专利：电子科技大学. 基于块调制成像的高分辨率遥感图像压缩方法和系统:CN202411378824.2[P]. 2025-01-28.
+- 一作论文（在投）：《Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging》
 
 ---
 
