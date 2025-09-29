@@ -24,8 +24,8 @@
       - 编码算法突破：结合光学硬件特性，通过块调制压缩编码方法将编码复杂度较传统行业标杆 JPEG降低 99%，针对大视场遥感图像实现毫秒级实时编码
       - 解码算法创新：建立深度展开网络理论模型，设计具有门控自适应特征选择能力的 3D-UNet 架构，创新引入跨阶段多头交叉注意力机制解决阶段间信息丢失难题，解码性能提升 63%
       - 系统工程验证：将图像编解码算法在目标检测、语义分割下游任务中进行可行性验证，1/20 压缩比下性能下降不超过 10%
-      - 知识成果产出：以第一作者撰写论文《Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging》投至计算机视觉顶刊 IJCV（在审），公开发明专利《基于块调制成像的高分辨率遥感图像压缩方法和系统》，专利号 CN202411378824.2
       - 硬件原型落地：将编解码算法部署硬件，完成第一个原型设计
+      - 知识成果产出：以第一作者撰写论文《Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging》投至计算机视觉顶刊IJCV（在审），以共一作者撰写论文《The Extreme Performance of Video Snapshot Compressive Imaging Under System Noise Constraints》被Optics and Laser Technology（JCR一区）录用，公开发明专利《基于块调制成像的高分辨率遥感图像压缩方法和系统》
 
 2) 国家自然基金重点项目——天基在轨弱目标智能处理研究
    - 担任职责：子课题负责人
